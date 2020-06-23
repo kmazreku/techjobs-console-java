@@ -77,7 +77,6 @@ public class JobData {
             if (aValue.contains(value.toLowerCase())) {
                 jobs.add(row);
             }
-            //else{ System.out.println();}
         }
 
         return jobs;
